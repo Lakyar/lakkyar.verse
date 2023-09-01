@@ -333,7 +333,6 @@ img{
     border-bottom: 2px dotted #ffd90030;
     display: flex;
     flex-direction: column;
-    justify-content: center;
 
 }
 /* .contactContainer{
@@ -345,6 +344,7 @@ img{
 
 }
 .CCR{
+    margin-top: 30px;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
@@ -354,7 +354,8 @@ img{
     align-self: center;
     text-shadow: 0 0 100px #3493ff63;
     transition: 0.3s all ease;
-    font-size: 70px;
+    font-size: 50px;
+    padding: 0 10px;
 }
 
 .CCR h1:hover{
@@ -711,7 +712,7 @@ footer p{
         transition: 0.3s ease;
         background-color: #5700e4ef;
         padding: 6px 50px;
-        border-radius: 10px;
+        border-radius: 5px;
         text-align: center;
     }
     #check:checked~.navbar a{
