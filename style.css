@@ -128,7 +128,10 @@ p{
 }
 
 .comingSoon{
-    opacity: 0.7;
+    opacity: 0.9;
+}
+.comingSoon p{
+    font-size: 13px;
 }
 
 h1{
@@ -517,6 +520,9 @@ footer p{
         height: 58%;
         font-size: 15px;
       }
+    .comingSoon p{
+    font-size: 12.5px;
+    }
       .CCR h1{
         
         font-size: 55px;
@@ -592,6 +598,9 @@ footer p{
       .card p{
         height: 42%;
       }
+    .comingSoon p{
+    font-size: 13px;
+    }
       .CCR h1{
         font-size: 45px;
     }
