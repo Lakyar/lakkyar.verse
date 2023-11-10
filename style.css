@@ -285,6 +285,7 @@ img{
     background-color: #000030;
     transform: scale(1.1);
     box-shadow: 0 0px 300px #9fb9ff;
+    text-shadow: 0 0 10px white;
   }
   .card h2 {
     z-index: 1;
